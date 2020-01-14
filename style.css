@@ -1,1 +1,107 @@
+body{
+    height:auto;
+    padding: 30px;
+    border: 1px solid white;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    width: auto;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.infophoto{
+    height: 350px;
+}
+.photo{
+    text-align: center;
+    padding: 20px;
+    background-image: url(https://i.pinimg.com/236x/bb/67/3d/bb673d6e41e86f8b17dff65133a5d243.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+}
+.info{
+    text-align: center;
+    padding: 20px;
+    padding-bottom: 30px;
+    border-top: 1px white solid;
+}
+.section1{
+    margin: 20px;
+    padding-top: 30px; 
+    text-align: justify;
+    height: auto;
+    display: block;
+}
+.section2{
+    margin: 20px;
+    padding-top: 30px; 
+    text-align: justify;
+    height: auto;
+    display: block;
+}
+.section3{
+    margin: 20px;
+    padding-top: 30px; 
+    text-align: justify;
+    height: auto;
+    display: block;
+}
+.section4{
+    margin: 0px;
+    padding-top: 30px; 
+    text-align: justify;
+    height: auto;
+    display: block;
+}
+.sec-gauche{
+    float: left;
+    font-weight: bold;
+    font-size: 17px;
+}
+.sec-droite{
+    margin-left: 150px;
+    margin-top: 37px;
+}
+.titre{
+    font-weight: bold;
+    font-size: 17px;
+    text-align: left;
+}
+h2{
+    text-transform: uppercase;
+    margin: 20px;
+    padding-top: 30px; 
+    font-size: 28px;
+    border-top: 1px white solid;
+}
+strong{
+    font-size: 26px;
+}
+#format-gauche{
+    margin-bottom: 37px;
+}
+ul{
+    text-align: left;
+    padding: 30px;
+    padding-bottom: 30px;
+}
+li{
+    list-style-type: square;
+    margin-bottom: 20px;
+}
+footer{
+    background-image:url(https://i.pinimg.com/236x/fb/ed/ec/fbedecc520e30314bedb2f9869aaef4c.jpg);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 40px;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+    text-align: right;
+    vertical-align: middle;
+}
 
